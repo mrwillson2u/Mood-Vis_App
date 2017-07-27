@@ -1,0 +1,18 @@
+{
+  "name": "mood_vis",
+  "version": "0.1.0",
+  "description": "Captures data from moodBoard and pushes it to visualisation.",
+  "main": "arora.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "noble": "^1.8.1",
+    "opn": "^4.0.2",
+    "p5": "^0.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Willson",
+  "license": "ISC"
+}
